@@ -1,0 +1,22 @@
+body{
+    background-color:whitesmoke ;
+}
+.container{
+    margin-top: 10px;
+    border-radius: 3px black solid;
+    border-style:dashed;
+   
+}
+.smallbox{
+    border-style: groove;
+    border-radius: 2px black bold;
+    padding: 50px;
+}
+
+
+.nn{
+    position: absolute;
+}
+.list{
+    margin-left: 200px;
+}
